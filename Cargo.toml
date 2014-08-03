@@ -1,0 +1,12 @@
+[package]
+
+name = "music_score"
+version = "0.0.0"
+authors = ["Your Name <your@email.com>"]
+tags = []
+
+[[lib]]
+
+name = "music_score"
+path = "src/lib.rs"
+
